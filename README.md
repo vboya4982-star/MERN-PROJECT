@@ -139,9 +139,9 @@ Use the application in your browser and test the frontend and backend APIs. Post
 
 ## 👨‍💻 Author
 
-**Varaprasad G.**
+**Vamsi .B**
 
-GitHub: [@venkataprasad509-eng](https://github.com/venkataprasad509-eng)
+GitHub: [https://github.com/vboya4982-star]
 
 ## 📄 License
 
